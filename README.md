@@ -1,6 +1,6 @@
-# Workplace Quest | Support website
+# AUNIQ | Product and support website
 
-Bilingual support and privacy information for the AUNIQ Workplace English iPhone app.
+This public repository hosts the product, help and privacy pages for AUNIQ, a workplace English practice app for iPhone. The native SwiftUI app is maintained in the private Workplace-English repository. This website retains its earlier Workplace Quest URL so existing support links continue to work.
 
 - [Product overview](https://itissn.github.io/workplace-quest-support/)
 - [Help and contact](https://itissn.github.io/workplace-quest-support/support.html)
